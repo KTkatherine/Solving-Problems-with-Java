@@ -1,7 +1,10 @@
 # Solving-Problems-with-Java
 
-print_different_age_groups_01
+Print different age groups._01
 
-whether_the_number_is_prime_02
+whether the number is prime._02
 
-Print all prime numbers between 1 and 100 _03
+Print all prime numbers between 1 and 100._03
+
+Prints all the leap years between 1000 to 2000._04
+
