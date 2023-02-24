@@ -4,12 +4,12 @@
 
 02_whether the number is prime
 
-03_Print all prime numbers between 1 and 100._03
+03_Print all prime numbers between 1 and 100
 
-04_Prints all the leap years between 1000 to 2000._04
+04_Prints all the leap years between 1000 to 2000
 
-05_Output multiplication table_.05
+05_Output multiplication table
 
+06_Find the greatest common divisor
 
-
-calculate 1/1 - 1/2 + 1/3 - 1/4 + 1/5 ........-1/100
+07_calculate 1/1 - 1/2 + 1/3 - 1/4 + 1/5 ........-1/100
