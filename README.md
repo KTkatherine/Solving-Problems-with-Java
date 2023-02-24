@@ -1,15 +1,15 @@
 # Solving-Problems-with-Java
 
-Print different age groups._01
+01_Print different age groups
 
-whether the number is prime._02
+02_whether the number is prime
 
-Print all prime numbers between 1 and 100._03
+03_Print all prime numbers between 1 and 100._03
 
-Prints all the leap years between 1000 to 2000._04
+04_Prints all the leap years between 1000 to 2000._04
 
-Output multiplication table_.05
+05_Output multiplication table_.05
 
-Find the greatest common divisor_.06
 
-calculate 1/1 - 1/2 + 1/3 - 1/4 + 1/5 ........-1/100_.07
+
+calculate 1/1 - 1/2 + 1/3 - 1/4 + 1/5 ........-1/100
