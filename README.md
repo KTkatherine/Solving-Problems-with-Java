@@ -9,3 +9,5 @@ Print all prime numbers between 1 and 100._03
 Prints all the leap years between 1000 to 2000._04
 
 Output multiplication table_.05
+
+Find the greatest common divisor_.06
