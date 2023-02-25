@@ -15,3 +15,5 @@
 07_calculate 1/1 - 1/2 + 1/3 - 1/4 + 1/5 ........-1/100
 
 08_Write a program that counts the number 9 in all integers from 1 to 100.
+
+09_Find all the daffodil numbers between 0 and 999 and print them out.
