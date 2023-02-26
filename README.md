@@ -17,3 +17,5 @@
 08_Write a program that counts the number 9 in all integers from 1 to 100.
 
 09_Find all the daffodil numbers between 0 and 999 and print them out.
+
+10_Write code to simulate three password entries.
