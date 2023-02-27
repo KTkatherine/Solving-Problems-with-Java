@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class the_number_guessing_game_12 {
     public static void main(String[] args) {
         /**
-         Complete tje number guessing game
+         Complete the number guessing game
          */
 
         Random random = new Random();//Java中，生成随机数的是一个Random类，类似于Scanner，先要产生一个Random类的实例。
