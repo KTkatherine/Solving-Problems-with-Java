@@ -19,3 +19,7 @@
 09_Find all the daffodil numbers between 0 and 999 and print them out.
 
 10_Write code to simulate three password entries.
+
+11_Prints out each bit of an integer
+
+
