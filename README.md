@@ -22,4 +22,6 @@
 
 11_Prints out each bit of an integer
 
+12_Complete the number guessing game
+
 
