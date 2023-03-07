@@ -24,4 +24,7 @@
 
 12_Complete the number guessing game
 
+13_Write a function that returns the number of ones in the binary number
+
+14_Calculate 1! + 2! + 3! ... ... + n!
 
