@@ -28,3 +28,4 @@
 
 14_Calculate 1! + 2! + 3! ... ... + n!
 
+15_Enter any positive integer, then get its factorial.
