@@ -29,3 +29,7 @@
 14_Calculate 1! + 2! + 3! ... ... + n!
 
 15_Enter any positive integer, then get its factorial.
+
+16_Calling the function of max2 in the function of max3, to achieve the calculation of the maximum value of three numbers.
+
+
