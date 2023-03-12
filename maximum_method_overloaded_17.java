@@ -3,6 +3,9 @@ public class maximum_method_overloaded_17 {
      Calculate the maximum by using the method overload
 
      Define multiple methods in the same class:
+        Requirements: not only can find the maximum value of two integers,
+        but also can find the maximum value of two decimal numbers,
+        and the size relationship between two decimal numbers and an integer
 
      */
     public static void main(String[] args) {
