@@ -37,6 +37,9 @@
         but also can find the maximum value of two decimal numbers,
         and the size relationship between two decimal numbers and an integer
         
-18_
+18_Print Array:
+        Write a method that takes an array as an argument and loops through each element in the array, printing the value of each element.
+        
+        
 
 
