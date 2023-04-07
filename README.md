@@ -43,6 +43,9 @@
 19_Change the original array value:
         Write a method that takes an array as an argumen, and loops over each array element by 2 and sets it to that element.
         
-20_
+20_Create an array and assign an initial value:
+        Create an array of int with 100 elements and set each element to the values 1-100
+        
+21_        
 
 
