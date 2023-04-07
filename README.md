@@ -46,6 +46,8 @@
 20_Create an array and assign an initial value:
         Create an array of int with 100 elements and set each element to the values 1-100
         
-21_        
+21_Copying of an Array：
+        Write a method that copies an entire array of integers into a new array.
+        
 
 
