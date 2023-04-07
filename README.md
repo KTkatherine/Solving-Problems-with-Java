@@ -40,6 +40,9 @@
 18_Print Array:
         Write a method that takes an array as an argument and loops through each element in the array, printing the value of each element.
         
+19_Change the original array value:
+        Write a method that takes an array as an argumen, and loops over each array element by 2 and sets it to that element.
         
+20_
 
 
